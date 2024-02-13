@@ -100,12 +100,12 @@ class HomeDesktop extends StatelessWidget {
                             textStyle: AppText.b1,
                           ),
                           TyperAnimatedText(
-                            ' Tech Enthusiast',
+                            ' Mobile App Developer',
                             speed: const Duration(milliseconds: 50),
                             textStyle: AppText.b1,
                           ),
                           TyperAnimatedText(
-                            ' A friend :)',
+                            ' Tech Enthusiast :)',
                             speed: const Duration(milliseconds: 50),
                             textStyle: AppText.b1,
                           ),

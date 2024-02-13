@@ -1,7 +1,7 @@
 class AboutUtils {
   static const String aboutMeHeadline =
-      'I\'m Aakash Rajbanshi, a Flutter developer and Tech enthausiast.';
+      'I\'m Aakash Rajbanshi, a Flutter developer and Mobile Application Developer.';
 
   static const String aboutMeDetail =
-      'I\'ve completed my +2 degree from Greenland International College and I am persuing by bachelors degree from Nihareeka College of Science and Technology as a B.Sc.CSIT student. Currently working as a freelancer.';
+      'A passionate Flutter developer with more than 1.5 years of expertise in cross-platform apps, REST Api, UI/UX, Widget, and State Management is here to turn your app vision into reality! With a record of cutting edge solutions and Proven in API integration, third-party libs, and performance optimization. Adept at debugging for high-quality, responsive apps. Agile collaborator, committed to industry trends.';
 }

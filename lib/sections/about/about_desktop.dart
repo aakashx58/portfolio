@@ -95,11 +95,11 @@ class AboutDesktop extends StatelessWidget {
                         color: Colors.grey[800],
                         thickness: AppDimensions.normalize(0.5),
                       ),
-                      Row(
+                      const Row(
                         children: [
                           Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
-                            children: const [
+                            children: [
                               AboutMeData(
                                 data: "Name",
                                 information: "Aakash Rajbanshi",
@@ -110,10 +110,10 @@ class AboutDesktop extends StatelessWidget {
                               ),
                             ],
                           ),
-                          const Spacer(),
+                          Spacer(),
                           Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
-                            children: const [
+                            children: [
                               AboutMeData(
                                 data: "Email",
                                 information: "aakashrajbanshi58@gmail.com",
